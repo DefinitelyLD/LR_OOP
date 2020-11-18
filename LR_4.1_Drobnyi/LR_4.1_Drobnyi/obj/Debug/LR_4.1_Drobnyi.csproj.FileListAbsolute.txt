@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\bin\Debug\LR_4.1_Drobnyi.exe.config
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\bin\Debug\LR_4.1_Drobnyi.exe
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\bin\Debug\LR_4.1_Drobnyi.pdb
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\obj\Debug\LR_4.1_Drobnyi.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\obj\Debug\LR_4.1_Drobnyi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\obj\Debug\LR_4.1_Drobnyi.exe
+C:\Users\Alex\source\repos\LR_4.1_Drobnyi\LR_4.1_Drobnyi\obj\Debug\LR_4.1_Drobnyi.pdb

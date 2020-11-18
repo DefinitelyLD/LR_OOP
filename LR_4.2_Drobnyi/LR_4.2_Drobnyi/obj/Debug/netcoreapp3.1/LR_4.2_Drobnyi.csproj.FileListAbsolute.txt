@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4._2_Drobnyi.Form1.resources
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.AssemblyInfo.cs
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\bin\Debug\netcoreapp3.1\LR_4.2_Drobnyi.exe
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\bin\Debug\netcoreapp3.1\LR_4.2_Drobnyi.deps.json
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\bin\Debug\netcoreapp3.1\LR_4.2_Drobnyi.runtimeconfig.json
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\bin\Debug\netcoreapp3.1\LR_4.2_Drobnyi.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\bin\Debug\netcoreapp3.1\LR_4.2_Drobnyi.dll
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\bin\Debug\netcoreapp3.1\LR_4.2_Drobnyi.pdb
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.dll
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.pdb
+C:\Users\Alex\source\repos\LR_4.2_Drobnyi\LR_4.2_Drobnyi\obj\Debug\netcoreapp3.1\LR_4.2_Drobnyi.genruntimeconfig.cache
