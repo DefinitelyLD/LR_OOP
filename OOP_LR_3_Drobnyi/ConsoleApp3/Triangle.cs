@@ -20,7 +20,7 @@
                 x1 = _x1; y1 = _y1;
             } //конструктор класса
 
-            new public void Show()
+            public override void Show()
             {
                 Console.WriteLine("Предок:" + (this.GetType().BaseType).ToString());
                 Console.WriteLine("Абстрактный класс:" + (this.GetType().BaseType).BaseType.ToString());
