@@ -7,21 +7,26 @@ namespace LR_4._1_Drobnyi
 {
     public class triangle : hexagon
     {
-        public int h { set; get; }
+        private int h;
+        public int H
+        {
+            get { return h; }
+            set { h = value; }
+        }
         public double S2 = 0;
         public triangle(int _a, int _h) : base(_a)
         {
-            a = _a; h = _h;
+            A = _a; H = _h;
         } //конструктор класса
-        new public void Show()
+        public override void Show()
         {
             Console.WriteLine("Предок:" + (this.GetType().BaseType).ToString());
             Console.WriteLine("Объект:" + (this.GetType().Name).ToString());
         }
 
-        new public double Squre()
+        public override double Square()
         {
-            S2 = (0.5 * a * h);
+            S2 = (0.5 * A * H);
             Console.WriteLine("s2 = " + S2.ToString());
             return S2;
         }

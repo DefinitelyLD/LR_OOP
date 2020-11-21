@@ -7,7 +7,12 @@ namespace LR_4._1_Drobnyi
 {
     public class hexagon : CGraphicsObject
     {
-        public int a { set; get; } //поля класса + setter&getter
+        private int a;
+        public int A {
+            get { return a;}
+            set { a = value; }
+            } //поля класса + setter&getter
+
         public double S1;
         public hexagon(int _a)
         {
@@ -15,7 +20,7 @@ namespace LR_4._1_Drobnyi
 
         } //конструктор класса
 
-        public void Show() //метод вывода информации об объекте
+        public override void Show() //метод вывода информации об объекте
         {
             Console.WriteLine("Предок:" + (this.GetType().BaseType).ToString());
             Console.WriteLine("Абстрактный класс:" + (this.GetType().BaseType).BaseType.ToString());
@@ -25,7 +30,7 @@ namespace LR_4._1_Drobnyi
         {
             Console.WriteLine("Имя:" + (this.GetType().Name).ToString());
         }
-        public double Squre() //метод вычисления площади
+        public override double Square() //метод вычисления площади
         {
             S1 = ((3 * Math.Sqrt(3) * Math.Pow(a, 2)) / 2);
             Console.WriteLine("s1 = " + S1.ToString());

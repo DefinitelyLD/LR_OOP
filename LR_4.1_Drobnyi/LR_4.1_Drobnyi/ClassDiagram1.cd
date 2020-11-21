@@ -8,23 +8,23 @@
     </TypeIdentifier>
   </Class>
   <Class Name="LR_4._1_Drobnyi.CGraphicsObject">
-    <Position X="7.75" Y="1" Width="1.5" />
+    <Position X="7.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
       <FileName>CGraphicsObject.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="LR_4._1_Drobnyi.hexagon">
     <Position X="7.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAgAAAACAAAAAAAAAAAAAAABEAAAgAAAAAAAABQA=</HashCode>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAABEAAAgAAAgIAAABQA=</HashCode>
       <FileName>hexagon.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="LR_4._1_Drobnyi.triangle">
     <Position X="7.75" Y="6.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAgAAAAAAAAAAAACAAAAAAAAEAAAAQAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAEAAAAQAAgAAAAAAA=</HashCode>
       <FileName>triangle.cs</FileName>
     </TypeIdentifier>
   </Class>

@@ -10,21 +10,21 @@
   <Class Name="ConsoleApp3.CGraphicsObject">
     <Position X="6.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAQAAAAAAAAA=</HashCode>
       <FileName>CGraphicsObject.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleApp3.CPoint">
     <Position X="6.5" Y="2.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAQAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAFAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CPoint.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleApp3.Triangle">
-    <Position X="6.5" Y="4.75" Width="1.5" />
+    <Position X="6.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAwAAAAAAAAAAAAAAAAAAAAAAwAEAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAwAAAAMAAAAAAAAAAADAAAAAwAEAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Triangle.cs</FileName>
     </TypeIdentifier>
   </Class>
